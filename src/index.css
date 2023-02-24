@@ -1,0 +1,67 @@
+@font-face {
+  font-family: Satoshi;
+  src:local("Satoshi-Black"), url("./fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Black.otf");
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 2rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  min-height: 10vh;
+  align-items: center;
+  font-family: Satoshi;
+  box-sizing: border-box;
+  background-color: #1B252C;
+  color: white;
+}
+
+nav .logo {
+  margin-left: 20px;
+}
+
+nav .links {
+  display: flex;
+  justify-content: space-around;
+  margin-left: auto;
+  width: 30%;
+}
+
+nav .links a:hover {
+  color: #3CBA3E;
+  transition: 900ms;
+}
+
+strong {
+  margin-left: 20px;
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.title {
+  position: absolute;
+  font-size: 60px;
+  font-family: Satoshi;
+  color: #1B252C;
+  left: 50%;
+  transform: translate(-58%, 70%);
+}
+
+
+
