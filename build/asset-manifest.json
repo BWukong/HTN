@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c8c9af5.css",
+    "main.js": "/static/js/main.7e7c3699.js",
+    "static/media/logo.png": "/static/media/logo.a27780c44451d205d499.png",
+    "static/media/Satoshi-Black.otf": "/static/media/Satoshi-Black.d27fb329e3c56de46506.otf",
+    "index.html": "/index.html",
+    "main.4c8c9af5.css.map": "/static/css/main.4c8c9af5.css.map",
+    "main.7e7c3699.js.map": "/static/js/main.7e7c3699.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c8c9af5.css",
+    "static/js/main.7e7c3699.js"
+  ]
+}
