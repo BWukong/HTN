@@ -15,7 +15,7 @@ function Navbar() {
                     <li><a href="https://twitter.com/hackthenorth"><FontAwesomeIcon icon={faTwitter} /></a></li>
                     <li><a href="https://www.linkedin.com/company/hack-the-north/"><FontAwesomeIcon icon={faLinkedin} /></a></li>
                     <li><a href="https://www.tiktok.com/@hackthenorth"><FontAwesomeIcon icon={faTiktok} /></a></li>
-                    <li><a><FontAwesomeIcon icon={faBlackTie} /></a></li>
+                    <li><a href="https://hackthenorth.medium.com/"><FontAwesomeIcon icon={faBlackTie} /></a></li>
                 </ul>
             </nav>
         </div>
