@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import "./index.css";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Card from "./components/Card";
 import Paginator from "./components/Paginator";
 import Navbar from "./components/Navbar";
